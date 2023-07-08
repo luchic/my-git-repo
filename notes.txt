@@ -1,0 +1,1 @@
+This file notes for projext. This file won't be ignore by git.
