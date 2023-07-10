@@ -24,7 +24,7 @@
 I want to belive that this education will be fun and interesting
 
 ### Немного кода
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -39,4 +39,5 @@ I want to belive that this education will be fun and interesting
 		<p> I fixed my errors and bugs</p>
 	</body>
 </html>
-'''
+
+```
