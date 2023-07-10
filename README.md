@@ -22,3 +22,21 @@
 
 #### Afterall 
 I want to belive that this education will be fun and interesting
+
+### Немного кода
+'''
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title> Hello world </title>
+		<p> Hier i have made some changes </p>
+	</head>
+	<body>
+		<h1>
+			I have implemented my new feature
+		</h1>
+		<p> I fixed my errors and bugs</p>
+	</body>
+</html>
+'''
