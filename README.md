@@ -45,3 +45,7 @@ I want to belive that this education will be fun and interesting
 1) Переименовал последний и предпоследний коммит, в feature-branch
 ![image](https://github.com/luchic/my-git-repo/assets/48492459/2f85353a-e81e-4eae-8bb2-bf65303ef704)
 
+2) Я перенес один комит, третий с верху коммит, где добавил файл commit_1.txt, из ветки feature-branch в feature_move_commit
+ ![image](https://github.com/luchic/my-git-repo/assets/48492459/3111bdf8-265d-4ff3-ba3f-38039840e209)
+  
+
