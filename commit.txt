@@ -1,5 +1,7 @@
 file for testing the renaming commits
 
 1) First change: old name of commit: EX_ rename file commit_1.txt to commit.txt
+-> rename not last commit
 
+2) Make new changes
 
