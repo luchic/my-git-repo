@@ -51,4 +51,8 @@ I want to belive that this education will be fun and interesting
 3) Создал две ветки feature_x и feature_y
 ![image](https://github.com/luchic/my-git-repo/assets/48492459/0639323e-a447-438c-9b0e-b90120e7088f)
 
+4) Рзаница между последними коммитами в feature_x и feature_y, слующий шаг удаление ветки feature_x с сервера и репозитория
+![image](https://github.com/luchic/my-git-repo/assets/48492459/b743f252-334d-4e24-beca-02a39cd2d1db)
+
+
 
