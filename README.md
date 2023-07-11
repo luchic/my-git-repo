@@ -53,6 +53,9 @@ I want to belive that this education will be fun and interesting
 
 4) Рзаница между последними коммитами в feature_x и feature_y, слующий шаг удаление ветки feature_x с сервера и репозитория
 ![image](https://github.com/luchic/my-git-repo/assets/48492459/b743f252-334d-4e24-beca-02a39cd2d1db)
+5) Удалил ветку feature_x
+   ![image](https://github.com/luchic/my-git-repo/assets/48492459/ba47dc77-d3fd-432c-8814-5414bd7440cb)
+
 
 
 
