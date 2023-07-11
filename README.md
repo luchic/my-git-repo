@@ -47,5 +47,8 @@ I want to belive that this education will be fun and interesting
 
 2) Я перенес один комит, третий с верху коммит, где добавил файл commit_1.txt, из ветки feature-branch в feature_move_commit
  ![image](https://github.com/luchic/my-git-repo/assets/48492459/3111bdf8-265d-4ff3-ba3f-38039840e209)
-  
+
+3) Создал две ветки feature_x и feature_y
+![image](https://github.com/luchic/my-git-repo/assets/48492459/0639323e-a447-438c-9b0e-b90120e7088f)
+
 
