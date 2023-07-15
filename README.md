@@ -24,7 +24,7 @@
 I want to belive that this education will be fun and interesting
 
 ### Немного кода
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -40,7 +40,7 @@ I want to belive that this education will be fun and interesting
 	</body>
 </html>
 
-```html
+```
 ### Доп задание
 1) Переименовал последний и предпоследний коммит, в feature-branch
 ![image](https://github.com/luchic/my-git-repo/assets/48492459/2f85353a-e81e-4eae-8bb2-bf65303ef704)
